@@ -1,0 +1,816 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="煤块"/>
+<node id="马车"/>
+<node id="骡子"/>
+<node id="老师"/>
+<node id="乌鸦"/>
+<node id="伙夫"/>
+<node id="孩子"/>
+<node id="伙房"/>
+<node id="公社"/>
+<node id="狐狸"/>
+<node id="煤堆"/>
+<node id="校长"/>
+<node id="同学"/>
+<node id="儿子"/>
+<node id="鼻子"/>
+<node id="自然课"/>
+<node id="风气"/>
+<node id="铲煤"/>
+<node id="女儿"/>
+<node id="块煤"/>
+<node id="身体"/>
+<node id="屁股"/>
+<node id="命名"/>
+<node id="门牙"/>
+<node id="吃奶"/>
+<node id="目光"/>
+<node id="干部"/>
+<node id="课本"/>
+<node id="回家"/>
+<node id="大叔"/>
+<node id="味儿"/>
+<node id="脸上"/>
+<node id="石灰"/>
+<node id="女生"/>
+<node id="鞭子"/>
+<node id="伙计"/>
+<node id="面粉"/>
+<node id="思索"/>
+<node id="滋味"/>
+<node id="车上"/>
+<node id="脾气"/>
+<node id="手上"/>
+<node id="议论"/>
+<node id="村里"/>
+<node id="表情"/>
+<node id="职业"/>
+<node id="脑袋"/>
+<node id="部位"/>
+<node id="羊栏"/>
+<node id="粗颈"/>
+<node id="煤末子"/>
+<node id="车闸"/>
+<node id="驻点"/>
+<node id="森林"/>
+<node id="食物"/>
+<node id="心理"/>
+<node id="名字"/>
+<node id="妻子"/>
+<node id="牙周炎"/>
+<node id="名者"/>
+<node id="公骡"/>
+<node id="飞蹄"/>
+<node id="神鞭"/>
+<node id="地向"/>
+<node id="鼻边"/>
+<node id="课本上"/>
+<node id="铡草"/>
+<node id="驾辕"/>
+<node id="车把式"/>
+<node id="保管员"/>
+<node id="母亲"/>
+<node id="双胎"/>
+<node id="学校"/>
+<node id="金榜"/>
+<node id="排座位"/>
+<node id="方头"/>
+<node id="细声细气"/>
+<node id="小学同学"/>
+<node id="父亲"/>
+<node id="脚脖子"/>
+<node id="几行字"/>
+<node id="兔崽子"/>
+<node id="粮库"/>
+<node id="车辕"/>
+<node id="煤灰"/>
+<node id="脆响"/>
+<node id="声音"/>
+<node id="碌碡"/>
+<node id="婴孩"/>
+<node id="奶头"/>
+<node id="小猫"/>
+<node id="课文"/>
+<node id="建议"/>
+<node id="圈儿"/>
+<node id="眼睛"/>
+<node id="血痕"/>
+<node id="大鼻子"/>
+<node id="浅黄色"/>
+<node id="文化"/>
+<node id="指指点点"/>
+<node id="连续剧"/>
+<node id="铁锹"/>
+<node id="初学"/>
+<node id="双肩"/>
+<node id="半死"/>
+<node id="龙口"/>
+<node id="黑板"/>
+<node id="大家"/>
+<node id="口吃"/>
+<node id="过瘾"/>
+<node id="讲台"/>
+<node id="烙印"/>
+<node id="扁担"/>
+<node id="大肠"/>
+<node id="好戏"/>
+<node id="猛烈地"/>
+<node id="书包"/>
+<node id="树梢"/>
+<node id="断面"/>
+<node id="肋骨"/>
+<node id="小女孩"/>
+<node id="琥珀"/>
+<node id="汗珠"/>
+<node id="半透明"/>
+<node id="男生"/>
+<node id="质问"/>
+<node id="放学"/>
+<node id="骂人"/>
+<node id="课堂"/>
+<node id="爱好者"/>
+<node id="精光"/>
+<node id="外科"/>
+<node id="地方"/>
+<node id="鸟儿"/>
+<node id="小手"/>
+<node id="尘土"/>
+<node id="长生"/>
+<node id="土豆"/>
+<node id="伤人"/>
+<node id="盛宴"/>
+<node id="样儿"/>
+<node id="气力"/>
+<node id="嗅觉"/>
+<node id="头颅"/>
+<node id="教导"/>
+<node id="校园"/>
+<node id="棕色"/>
+<node id="双腿"/>
+<node id="树下"/>
+<node id="畜牧"/>
+<node id="歌声"/>
+<node id="废墟"/>
+<node id="战功"/>
+<node id="歌唱"/>
+<node id="医学院"/>
+<node id="腰间"/>
+<node id="乳房"/>
+<node id="乡下"/>
+<node id="矿石"/>
+<node id="香味"/>
+<node id="香气"/>
+<node id="胡乱"/>
+<node id="人影"/>
+<node id="饥饿"/>
+<node id="泥土"/>
+<node id="体会"/>
+<node id="车子"/>
+<node id="嘴角"/>
+<node id="地壳"/>
+<node id="舌头"/>
+<node id="炮弹"/>
+<node id="路边"/>
+<node id="走路"/>
+<node id="村子"/>
+<node id="记忆"/>
+<node id="嘴巴"/>
+<node id="小子"/>
+<node id="口中"/>
+<node id="工夫"/>
+<node id="大夫"/>
+<node id="军马"/>
+<node id="姑姑"/>
+<node id="游戏"/>
+<node id="肚子"/>
+<node id="头顶"/>
+<node id="讲话"/>
+<node id="器官"/>
+<node id="低头"/>
+<node id="煤矿"/>
+<node id="胳膊"/>
+<node id="电视"/>
+<node id="手指"/>
+<node id="县城"/>
+<node id="神情"/>
+<node id="小学"/>
+<node id="浑身"/>
+<node id="门前"/>
+<node id="原本"/>
+<node id="太太"/>
+<node id="绿色"/>
+<node id="营养"/>
+<node id="儿童"/>
+<node id="全世界"/>
+<node id="地质"/>
+<node id="名义"/>
+<node id="优质"/>
+<node id="老婆"/>
+<node id="脸色"/>
+<node id="黑色"/>
+<node id="双手"/>
+<node id="错误"/>
+<node id="父母"/>
+<node id="头上"/>
+<node id="事实"/>
+<node id="书记"/>
+<node id="毕业"/>
+<node id="故事"/>
+<node id="煤炭"/>
+<node id="飞机"/>
+<node id="姑娘"/>
+<node id="手里"/>
+<node id="手中"/>
+<node id="对象"/>
+<node id="医院"/>
+<node id="朋友"/>
+<node id="人物"/>
+<node id="学生"/>
+<node id="样子"/>
+<node id="军队"/>
+<node id="事件"/>
+<node id="地上"/>
+<node id="速度"/>
+<node id="先生"/>
+<node id="力量"/>
+<node id="无法"/>
+<node id="身上"/>
+<node id="理论"/>
+<node id="世纪"/>
+<node id="问题"/>
+<edge source="煤块" target="龙口"/>
+<edge source="煤块" target="断面"/>
+<edge source="煤块" target="人影"/>
+<edge source="煤块" target="煤矿"/>
+<edge source="煤块" target="优质"/>
+<edge source="煤块" target="目光"/>
+<edge source="煤块" target="嗅觉"/>
+<edge source="煤块" target="香气"/>
+<edge source="煤块" target="声音"/>
+<edge source="煤块" target="门牙"/>
+<edge source="煤块" target="滋味"/>
+<edge source="煤块" target="样子"/>
+<edge source="煤块" target="浅黄色"/>
+<edge source="煤块" target="琥珀"/>
+<edge source="煤块" target="半透明"/>
+<edge source="煤块" target="校长"/>
+<edge source="煤块" target="课本"/>
+<edge source="马车" target="村里"/>
+<edge source="马车" target="车把式"/>
+<edge source="马车" target="县城"/>
+<edge source="马车" target="尘土"/>
+<edge source="马车" target="骡子"/>
+<edge source="马车" target="脑袋"/>
+<edge source="马车" target="门前"/>
+<edge source="马车" target="校园"/>
+<edge source="马车" target="鞭子"/>
+<edge source="马车" target="过瘾"/>
+<edge source="骡子" target="脾气"/>
+<edge source="骡子" target="气力"/>
+<edge source="骡子" target="速度"/>
+<edge source="骡子" target="儿子"/>
+<edge source="骡子" target="儿童"/>
+<edge source="骡子" target="脑袋"/>
+<edge source="骡子" target="门前"/>
+<edge source="骡子" target="老婆"/>
+<edge source="骡子" target="力量"/>
+<edge source="骡子" target="无法"/>
+<edge source="骡子" target="铲煤"/>
+<edge source="骡子" target="目光"/>
+<edge source="骡子" target="议论"/>
+<edge source="老师" target="课堂"/>
+<edge source="老师" target="几行字"/>
+<edge source="老师" target="黑板"/>
+<edge source="老师" target="鼻子"/>
+<edge source="老师" target="块煤"/>
+<edge source="老师" target="排座位"/>
+<edge source="老师" target="小猫"/>
+<edge source="老师" target="讲台"/>
+<edge source="老师" target="手里"/>
+<edge source="老师" target="乌鸦"/>
+<edge source="老师" target="狐狸"/>
+<edge source="老师" target="同学"/>
+<edge source="老师" target="课文"/>
+<edge source="老师" target="儿子"/>
+<edge source="老师" target="文化"/>
+<edge source="乌鸦" target="狐狸"/>
+<edge source="乌鸦" target="同学"/>
+<edge source="乌鸦" target="树梢"/>
+<edge source="乌鸦" target="鸟儿"/>
+<edge source="乌鸦" target="树下"/>
+<edge source="乌鸦" target="歌声"/>
+<edge source="乌鸦" target="歌唱"/>
+<edge source="乌鸦" target="太太"/>
+<edge source="乌鸦" target="全世界"/>
+<edge source="乌鸦" target="口中"/>
+<edge source="伙夫" target="孩子"/>
+<edge source="伙夫" target="命名"/>
+<edge source="伙夫" target="文化"/>
+<edge source="伙夫" target="器官"/>
+<edge source="伙夫" target="女儿"/>
+<edge source="伙夫" target="妻子"/>
+<edge source="孩子" target="风气"/>
+<edge source="孩子" target="身体"/>
+<edge source="孩子" target="命名"/>
+<edge source="孩子" target="部位"/>
+<edge source="孩子" target="地方"/>
+<edge source="孩子" target="器官"/>
+<edge source="孩子" target="先生"/>
+<edge source="孩子" target="心理"/>
+<edge source="孩子" target="名者"/>
+<edge source="孩子" target="母亲"/>
+<edge source="孩子" target="大肠"/>
+<edge source="孩子" target="长生"/>
+<edge source="孩子" target="身上"/>
+<edge source="孩子" target="名字"/>
+<edge source="孩子" target="父母"/>
+<edge source="孩子" target="连续剧"/>
+<edge source="孩子" target="电视"/>
+<edge source="孩子" target="人物"/>
+<edge source="孩子" target="文化"/>
+<edge source="孩子" target="吃奶"/>
+<edge source="孩子" target="半死"/>
+<edge source="孩子" target="肋骨"/>
+<edge source="孩子" target="乳房"/>
+<edge source="孩子" target="理论"/>
+<edge source="孩子" target="大叔"/>
+<edge source="孩子" target="细声细气"/>
+<edge source="伙房" target="煤堆"/>
+<edge source="伙房" target="车上"/>
+<edge source="伙房" target="学校"/>
+<edge source="伙房" target="回家"/>
+<edge source="伙房" target="食物"/>
+<edge source="伙房" target="兔崽子"/>
+<edge source="伙房" target="奶头"/>
+<edge source="伙房" target="公社"/>
+<edge source="伙房" target="校长"/>
+<edge source="伙房" target="干部"/>
+<edge source="伙房" target="面粉"/>
+<edge source="伙房" target="手上"/>
+<edge source="伙房" target="驻点"/>
+<edge source="伙房" target="教导"/>
+<edge source="伙房" target="乡下"/>
+<edge source="伙房" target="脸色"/>
+<edge source="公社" target="畜牧"/>
+<edge source="公社" target="原本"/>
+<edge source="公社" target="错误"/>
+<edge source="公社" target="保管员"/>
+<edge source="公社" target="粮库"/>
+<edge source="公社" target="校长"/>
+<edge source="公社" target="干部"/>
+<edge source="公社" target="面粉"/>
+<edge source="公社" target="手上"/>
+<edge source="公社" target="驻点"/>
+<edge source="公社" target="学校"/>
+<edge source="公社" target="教导"/>
+<edge source="公社" target="乡下"/>
+<edge source="公社" target="车子"/>
+<edge source="狐狸" target="同学"/>
+<edge source="狐狸" target="鸟儿"/>
+<edge source="狐狸" target="树下"/>
+<edge source="狐狸" target="歌声"/>
+<edge source="狐狸" target="歌唱"/>
+<edge source="狐狸" target="太太"/>
+<edge source="狐狸" target="全世界"/>
+<edge source="狐狸" target="口中"/>
+<edge source="煤堆" target="车上"/>
+<edge source="煤堆" target="学校"/>
+<edge source="煤堆" target="地向"/>
+<edge source="煤堆" target="鼻子"/>
+<edge source="煤堆" target="食物"/>
+<edge source="煤堆" target="爱好者"/>
+<edge source="煤堆" target="废墟"/>
+<edge source="煤堆" target="矿石"/>
+<edge source="煤堆" target="低头"/>
+<edge source="煤堆" target="地质"/>
+<edge source="校长" target="自然课"/>
+<edge source="校长" target="金榜"/>
+<edge source="校长" target="课本"/>
+<edge source="校长" target="课本上"/>
+<edge source="校长" target="森林"/>
+<edge source="校长" target="绿色"/>
+<edge source="校长" target="黑色"/>
+<edge source="校长" target="煤炭"/>
+<edge source="校长" target="干部"/>
+<edge source="校长" target="面粉"/>
+<edge source="校长" target="手上"/>
+<edge source="校长" target="驻点"/>
+<edge source="校长" target="学校"/>
+<edge source="校长" target="教导"/>
+<edge source="校长" target="乡下"/>
+<edge source="同学" target="小学同学"/>
+<edge source="同学" target="小学"/>
+<edge source="同学" target="朋友"/>
+<edge source="同学" target="儿子"/>
+<edge source="同学" target="女儿"/>
+<edge source="同学" target="妻子"/>
+<edge source="同学" target="质问"/>
+<edge source="儿子" target="女儿"/>
+<edge source="儿子" target="身体"/>
+<edge source="儿子" target="回家"/>
+<edge source="儿子" target="婴孩"/>
+<edge source="儿子" target="初学"/>
+<edge source="儿子" target="走路"/>
+<edge source="儿子" target="儿童"/>
+<edge source="儿子" target="质问"/>
+<edge source="儿子" target="文化"/>
+<edge source="鼻子" target="香味"/>
+<edge source="鼻子" target="食物"/>
+<edge source="鼻子" target="爱好者"/>
+<edge source="鼻子" target="废墟"/>
+<edge source="鼻子" target="矿石"/>
+<edge source="鼻子" target="低头"/>
+<edge source="鼻子" target="地质"/>
+<edge source="鼻子" target="对象"/>
+<edge source="鼻子" target="大鼻子"/>
+<edge source="鼻子" target="汗珠"/>
+<edge source="鼻子" target="煤灰"/>
+<edge source="鼻子" target="块煤"/>
+<edge source="鼻子" target="排座位"/>
+<edge source="鼻子" target="小猫"/>
+<edge source="鼻子" target="讲台"/>
+<edge source="鼻子" target="手里"/>
+<edge source="自然课" target="森林"/>
+<edge source="自然课" target="地壳"/>
+<edge source="自然课" target="世纪"/>
+<edge source="自然课" target="金榜"/>
+<edge source="风气" target="身体"/>
+<edge source="风气" target="命名"/>
+<edge source="风气" target="部位"/>
+<edge source="风气" target="地方"/>
+<edge source="风气" target="器官"/>
+<edge source="风气" target="先生"/>
+<edge source="风气" target="心理"/>
+<edge source="风气" target="名者"/>
+<edge source="风气" target="母亲"/>
+<edge source="风气" target="大肠"/>
+<edge source="风气" target="长生"/>
+<edge source="风气" target="身上"/>
+<edge source="风气" target="名字"/>
+<edge source="风气" target="父母"/>
+<edge source="铲煤" target="车上"/>
+<edge source="铲煤" target="铁锹"/>
+<edge source="铲煤" target="目光"/>
+<edge source="铲煤" target="议论"/>
+<edge source="女儿" target="身体"/>
+<edge source="女儿" target="回家"/>
+<edge source="女儿" target="婴孩"/>
+<edge source="女儿" target="初学"/>
+<edge source="女儿" target="走路"/>
+<edge source="女儿" target="妻子"/>
+<edge source="块煤" target="思索"/>
+<edge source="块煤" target="鼻边"/>
+<edge source="块煤" target="问题"/>
+<edge source="块煤" target="手中"/>
+<edge source="块煤" target="伙计"/>
+<edge source="块煤" target="声音"/>
+<edge source="块煤" target="脸上"/>
+<edge source="块煤" target="表情"/>
+<edge source="块煤" target="神情"/>
+<edge source="块煤" target="排座位"/>
+<edge source="块煤" target="小猫"/>
+<edge source="块煤" target="讲台"/>
+<edge source="块煤" target="手里"/>
+<edge source="身体" target="命名"/>
+<edge source="身体" target="部位"/>
+<edge source="身体" target="地方"/>
+<edge source="身体" target="器官"/>
+<edge source="身体" target="先生"/>
+<edge source="身体" target="姑娘"/>
+<edge source="身体" target="回家"/>
+<edge source="身体" target="婴孩"/>
+<edge source="身体" target="初学"/>
+<edge source="身体" target="走路"/>
+<edge source="屁股" target="驾辕"/>
+<edge source="屁股" target="烙印"/>
+<edge source="屁股" target="战功"/>
+<edge source="屁股" target="炮弹"/>
+<edge source="屁股" target="军马"/>
+<edge source="屁股" target="军队"/>
+<edge source="屁股" target="鞭子"/>
+<edge source="屁股" target="车闸"/>
+<edge source="屁股" target="车辕"/>
+<edge source="屁股" target="头颅"/>
+<edge source="屁股" target="双腿"/>
+<edge source="屁股" target="脑袋"/>
+<edge source="屁股" target="泥土"/>
+<edge source="屁股" target="嘴巴"/>
+<edge source="屁股" target="工夫"/>
+<edge source="屁股" target="浑身"/>
+<edge source="屁股" target="地上"/>
+<edge source="命名" target="部位"/>
+<edge source="命名" target="地方"/>
+<edge source="命名" target="器官"/>
+<edge source="命名" target="先生"/>
+<edge source="命名" target="文化"/>
+<edge source="门牙" target="猛烈地"/>
+<edge source="门牙" target="滋味"/>
+<edge source="门牙" target="样子"/>
+<edge source="吃奶" target="母亲"/>
+<edge source="吃奶" target="半死"/>
+<edge source="吃奶" target="肋骨"/>
+<edge source="吃奶" target="乳房"/>
+<edge source="吃奶" target="理论"/>
+<edge source="目光" target="议论"/>
+<edge source="目光" target="嗅觉"/>
+<edge source="干部" target="面粉"/>
+<edge source="干部" target="手上"/>
+<edge source="干部" target="驻点"/>
+<edge source="干部" target="学校"/>
+<edge source="干部" target="教导"/>
+<edge source="干部" target="乡下"/>
+<edge source="干部" target="车子"/>
+<edge source="课本" target="课本上"/>
+<edge source="课本" target="森林"/>
+<edge source="课本" target="绿色"/>
+<edge source="课本" target="黑色"/>
+<edge source="课本" target="煤炭"/>
+<edge source="回家" target="婴孩"/>
+<edge source="回家" target="初学"/>
+<edge source="回家" target="走路"/>
+<edge source="回家" target="石灰"/>
+<edge source="回家" target="路边"/>
+<edge source="回家" target="头上"/>
+<edge source="回家" target="食物"/>
+<edge source="回家" target="兔崽子"/>
+<edge source="回家" target="奶头"/>
+<edge source="大叔" target="细声细气"/>
+<edge source="味儿" target="土豆"/>
+<edge source="脸上" target="表情"/>
+<edge source="脸上" target="神情"/>
+<edge source="石灰" target="路边"/>
+<edge source="石灰" target="头上"/>
+<edge source="女生" target="学生"/>
+<edge source="女生" target="男生"/>
+<edge source="女生" target="盛宴"/>
+<edge source="鞭子" target="车闸"/>
+<edge source="鞭子" target="车辕"/>
+<edge source="鞭子" target="头颅"/>
+<edge source="鞭子" target="双腿"/>
+<edge source="鞭子" target="过瘾"/>
+<edge source="伙计" target="声音"/>
+<edge source="面粉" target="手上"/>
+<edge source="面粉" target="驻点"/>
+<edge source="面粉" target="学校"/>
+<edge source="面粉" target="教导"/>
+<edge source="面粉" target="乡下"/>
+<edge source="思索" target="鼻边"/>
+<edge source="思索" target="问题"/>
+<edge source="思索" target="手中"/>
+<edge source="滋味" target="样子"/>
+<edge source="车上" target="铁锹"/>
+<edge source="车上" target="学校"/>
+<edge source="脾气" target="公骡"/>
+<edge source="脾气" target="飞蹄"/>
+<edge source="脾气" target="伤人"/>
+<edge source="脾气" target="气力"/>
+<edge source="脾气" target="速度"/>
+<edge source="手上" target="驻点"/>
+<edge source="手上" target="学校"/>
+<edge source="手上" target="教导"/>
+<edge source="手上" target="乡下"/>
+<edge source="议论" target="指指点点"/>
+<edge source="议论" target="棕色"/>
+<edge source="村里" target="车把式"/>
+<edge source="村里" target="县城"/>
+<edge source="村里" target="书记"/>
+<edge source="职业" target="父亲"/>
+<edge source="职业" target="村子"/>
+<edge source="脑袋" target="门前"/>
+<edge source="脑袋" target="泥土"/>
+<edge source="脑袋" target="嘴巴"/>
+<edge source="脑袋" target="工夫"/>
+<edge source="脑袋" target="浑身"/>
+<edge source="脑袋" target="地上"/>
+<edge source="部位" target="地方"/>
+<edge source="部位" target="器官"/>
+<edge source="部位" target="先生"/>
+<edge source="羊栏" target="小学"/>
+<edge source="粗颈" target="方头"/>
+<edge source="粗颈" target="口吃"/>
+<edge source="粗颈" target="精光"/>
+<edge source="粗颈" target="讲话"/>
+<edge source="煤末子" target="嘴角"/>
+<edge source="车闸" target="车辕"/>
+<edge source="车闸" target="头颅"/>
+<edge source="车闸" target="双腿"/>
+<edge source="驻点" target="学校"/>
+<edge source="驻点" target="教导"/>
+<edge source="驻点" target="乡下"/>
+<edge source="森林" target="地壳"/>
+<edge source="森林" target="世纪"/>
+<edge source="森林" target="绿色"/>
+<edge source="森林" target="黑色"/>
+<edge source="森林" target="煤炭"/>
+<edge source="食物" target="兔崽子"/>
+<edge source="食物" target="奶头"/>
+<edge source="食物" target="爱好者"/>
+<edge source="食物" target="废墟"/>
+<edge source="食物" target="矿石"/>
+<edge source="食物" target="低头"/>
+<edge source="食物" target="地质"/>
+<edge source="心理" target="名者"/>
+<edge source="心理" target="母亲"/>
+<edge source="心理" target="大肠"/>
+<edge source="心理" target="长生"/>
+<edge source="心理" target="身上"/>
+<edge source="名字" target="父母"/>
+<edge source="名字" target="连续剧"/>
+<edge source="名字" target="地方"/>
+<edge source="名字" target="电视"/>
+<edge source="名字" target="人物"/>
+<edge source="名者" target="母亲"/>
+<edge source="名者" target="大肠"/>
+<edge source="名者" target="长生"/>
+<edge source="名者" target="身上"/>
+<edge source="公骡" target="飞蹄"/>
+<edge source="公骡" target="伤人"/>
+<edge source="飞蹄" target="伤人"/>
+<edge source="鼻边" target="问题"/>
+<edge source="铡草" target="手指"/>
+<edge source="驾辕" target="烙印"/>
+<edge source="驾辕" target="战功"/>
+<edge source="驾辕" target="炮弹"/>
+<edge source="驾辕" target="军马"/>
+<edge source="驾辕" target="军队"/>
+<edge source="车把式" target="县城"/>
+<edge source="保管员" target="粮库"/>
+<edge source="母亲" target="大肠"/>
+<edge source="母亲" target="长生"/>
+<edge source="母亲" target="身上"/>
+<edge source="母亲" target="半死"/>
+<edge source="母亲" target="肋骨"/>
+<edge source="母亲" target="乳房"/>
+<edge source="母亲" target="理论"/>
+<edge source="学校" target="教导"/>
+<edge source="学校" target="乡下"/>
+<edge source="排座位" target="小猫"/>
+<edge source="排座位" target="讲台"/>
+<edge source="排座位" target="手里"/>
+<edge source="方头" target="口吃"/>
+<edge source="方头" target="精光"/>
+<edge source="方头" target="讲话"/>
+<edge source="小学同学" target="小学"/>
+<edge source="小学同学" target="朋友"/>
+<edge source="父亲" target="体会"/>
+<edge source="父亲" target="小学"/>
+<edge source="父亲" target="飞机"/>
+<edge source="父亲" target="学生"/>
+<edge source="脚脖子" target="腰间"/>
+<edge source="几行字" target="黑板"/>
+<edge source="兔崽子" target="奶头"/>
+<edge source="车辕" target="头颅"/>
+<edge source="车辕" target="双腿"/>
+<edge source="脆响" target="血痕"/>
+<edge source="碌碡" target="双肩"/>
+<edge source="碌碡" target="头顶"/>
+<edge source="碌碡" target="胳膊"/>
+<edge source="碌碡" target="双手"/>
+<edge source="婴孩" target="初学"/>
+<edge source="婴孩" target="走路"/>
+<edge source="小猫" target="讲台"/>
+<edge source="小猫" target="手里"/>
+<edge source="建议" target="骂人"/>
+<edge source="圈儿" target="眼睛"/>
+<edge source="圈儿" target="样儿"/>
+<edge source="圈儿" target="舌头"/>
+<edge source="眼睛" target="样儿"/>
+<edge source="眼睛" target="舌头"/>
+<edge source="大鼻子" target="汗珠"/>
+<edge source="浅黄色" target="琥珀"/>
+<edge source="浅黄色" target="半透明"/>
+<edge source="文化" target="器官"/>
+<edge source="指指点点" target="棕色"/>
+<edge source="连续剧" target="地方"/>
+<edge source="连续剧" target="电视"/>
+<edge source="连续剧" target="人物"/>
+<edge source="初学" target="走路"/>
+<edge source="双肩" target="头顶"/>
+<edge source="双肩" target="胳膊"/>
+<edge source="双肩" target="双手"/>
+<edge source="半死" target="肋骨"/>
+<edge source="半死" target="乳房"/>
+<edge source="半死" target="理论"/>
+<edge source="龙口" target="断面"/>
+<edge source="龙口" target="人影"/>
+<edge source="龙口" target="煤矿"/>
+<edge source="龙口" target="优质"/>
+<edge source="大家" target="肚子"/>
+<edge source="大家" target="营养"/>
+<edge source="大家" target="书包"/>
+<edge source="大家" target="放学"/>
+<edge source="口吃" target="精光"/>
+<edge source="口吃" target="讲话"/>
+<edge source="讲台" target="手里"/>
+<edge source="烙印" target="战功"/>
+<edge source="烙印" target="炮弹"/>
+<edge source="烙印" target="军马"/>
+<edge source="烙印" target="军队"/>
+<edge source="大肠" target="长生"/>
+<edge source="大肠" target="身上"/>
+<edge source="书包" target="放学"/>
+<edge source="断面" target="人影"/>
+<edge source="断面" target="煤矿"/>
+<edge source="断面" target="优质"/>
+<edge source="肋骨" target="乳房"/>
+<edge source="肋骨" target="理论"/>
+<edge source="小女孩" target="小子"/>
+<edge source="琥珀" target="半透明"/>
+<edge source="男生" target="盛宴"/>
+<edge source="爱好者" target="废墟"/>
+<edge source="爱好者" target="矿石"/>
+<edge source="爱好者" target="低头"/>
+<edge source="爱好者" target="地质"/>
+<edge source="精光" target="讲话"/>
+<edge source="外科" target="医学院"/>
+<edge source="外科" target="大夫"/>
+<edge source="外科" target="毕业"/>
+<edge source="外科" target="医院"/>
+<edge source="地方" target="器官"/>
+<edge source="地方" target="先生"/>
+<edge source="地方" target="电视"/>
+<edge source="地方" target="人物"/>
+<edge source="鸟儿" target="树下"/>
+<edge source="鸟儿" target="歌声"/>
+<edge source="鸟儿" target="歌唱"/>
+<edge source="鸟儿" target="太太"/>
+<edge source="鸟儿" target="全世界"/>
+<edge source="长生" target="身上"/>
+<edge source="样儿" target="舌头"/>
+<edge source="气力" target="速度"/>
+<edge source="头颅" target="双腿"/>
+<edge source="教导" target="乡下"/>
+<edge source="树下" target="歌声"/>
+<edge source="树下" target="歌唱"/>
+<edge source="树下" target="太太"/>
+<edge source="树下" target="全世界"/>
+<edge source="畜牧" target="原本"/>
+<edge source="畜牧" target="错误"/>
+<edge source="歌声" target="歌唱"/>
+<edge source="歌声" target="太太"/>
+<edge source="歌声" target="全世界"/>
+<edge source="废墟" target="矿石"/>
+<edge source="废墟" target="低头"/>
+<edge source="废墟" target="地质"/>
+<edge source="战功" target="炮弹"/>
+<edge source="战功" target="军马"/>
+<edge source="战功" target="军队"/>
+<edge source="歌唱" target="太太"/>
+<edge source="歌唱" target="全世界"/>
+<edge source="医学院" target="大夫"/>
+<edge source="医学院" target="毕业"/>
+<edge source="医学院" target="医院"/>
+<edge source="乳房" target="理论"/>
+<edge source="矿石" target="低头"/>
+<edge source="矿石" target="地质"/>
+<edge source="胡乱" target="姑姑"/>
+<edge source="胡乱" target="名义"/>
+<edge source="胡乱" target="事实"/>
+<edge source="人影" target="煤矿"/>
+<edge source="人影" target="优质"/>
+<edge source="饥饿" target="记忆"/>
+<edge source="饥饿" target="事件"/>
+<edge source="泥土" target="嘴巴"/>
+<edge source="泥土" target="工夫"/>
+<edge source="泥土" target="浑身"/>
+<edge source="泥土" target="地上"/>
+<edge source="体会" target="小学"/>
+<edge source="体会" target="飞机"/>
+<edge source="体会" target="学生"/>
+<edge source="地壳" target="世纪"/>
+<edge source="炮弹" target="军马"/>
+<edge source="炮弹" target="军队"/>
+<edge source="路边" target="头上"/>
+<edge source="记忆" target="事件"/>
+<edge source="嘴巴" target="工夫"/>
+<edge source="嘴巴" target="浑身"/>
+<edge source="嘴巴" target="地上"/>
+<edge source="工夫" target="浑身"/>
+<edge source="工夫" target="地上"/>
+<edge source="大夫" target="毕业"/>
+<edge source="大夫" target="医院"/>
+<edge source="军马" target="军队"/>
+<edge source="姑姑" target="名义"/>
+<edge source="姑姑" target="事实"/>
+<edge source="肚子" target="营养"/>
+<edge source="头顶" target="胳膊"/>
+<edge source="头顶" target="双手"/>
+<edge source="器官" target="先生"/>
+<edge source="低头" target="地质"/>
+<edge source="煤矿" target="优质"/>
+<edge source="胳膊" target="双手"/>
+<edge source="电视" target="人物"/>
+<edge source="小学" target="朋友"/>
+<edge source="小学" target="飞机"/>
+<edge source="小学" target="学生"/>
+<edge source="浑身" target="地上"/>
+<edge source="原本" target="错误"/>
+<edge source="太太" target="全世界"/>
+<edge source="绿色" target="黑色"/>
+<edge source="绿色" target="煤炭"/>
+<edge source="名义" target="事实"/>
+<edge source="黑色" target="煤炭"/>
+<edge source="毕业" target="医院"/>
+<edge source="飞机" target="学生"/>
+<edge source="力量" target="无法"/>
+</graph></graphml>
